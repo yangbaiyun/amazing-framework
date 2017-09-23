@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chpater3:war">
+    <output-path>$PROJECT_DIR$/Chpater3/target</output-path>
+    <root id="archive" name="Chpater3.war">
+      <element id="artifact" artifact-name="Chpater3:war exploded" />
+    </root>
+  </artifact>
+</component>

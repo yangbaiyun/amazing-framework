@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chpater3/Chpater3.iml" filepath="$PROJECT_DIR$/Chpater3/Chpater3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazing-framework.iml" filepath="$PROJECT_DIR$/amazing-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/chapter3/chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
