@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.amazing.framework.annotation.Service;
+import org.amazing.framework.annotation.Transaction;
 import org.smart4j.chapter3.model.Customer;
 
 
@@ -47,6 +48,7 @@ public class CustomerService {
     /**
      * 创建客户
      */
+    @Transaction
     public boolean createCustomer(Map<String, Object> fieldMap) {
         return true;
     }
@@ -54,6 +56,7 @@ public class CustomerService {
     /**
      * 更新客户
      */
+    @Transaction
     public boolean updateCustomer(long id, Map<String, Object> fieldMap) {
         return true;
     }
@@ -61,6 +64,7 @@ public class CustomerService {
     /**
      * 删除客户
      */
+    @Transaction
     public boolean deleteCustomer(long id) {
         return true;
     }

@@ -2,7 +2,7 @@ package org.amazing.framework;
 
 /**
  * 提供相关配置项常量
- * Created by john on 2017/9/22.
+ *
  */
 public interface ConfigConstant {
 
