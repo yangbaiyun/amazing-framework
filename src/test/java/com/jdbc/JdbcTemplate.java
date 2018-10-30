@@ -14,7 +14,7 @@ import java.sql.*;
  */
 public class JdbcTemplate {
     private static  String name="";
-
+    //测试
     @Test
     public void test()
     {
